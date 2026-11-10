@@ -7,7 +7,7 @@
 
 ## What This Is
 
-A hardware accelerator that filters noisy images using the **Wiener filter** — an optimal linear estimator under Gaussian noise. The system is fully pipelined and streaming, designed for real FPGA and chip deployment.
+A hardware accelerator that filters noisy images using the **Wiener filter** — an optimal linear estimator under Gaussian noise. The system is fully pipelined and streaming, designed for real chip deployment.
 
 The project includes:
 - A complete RTL design in SystemVerilog (5×5 and 3×3 kernel modes)
